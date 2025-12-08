@@ -2,39 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Kartik%20Kesbhat&fontSize=70&animation=fadeIn&fontAlign=50&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist&descAlign=50"/>
 </div>
 
-<table align="center" border="0" bgcolor="transparent">
-  <tr>
-    <td width="60%" valign="center">
-      <h2>👋 Hi there!</h2>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F83F7&width=435&lines=Building+scalable,+high-performance+web+apps.;Specializing+in+the+MERN+stack.;Passionate+about+clean+architecture.;Delivering+robust,+maintainable+code." alt="Typing SVG" />
-        </a>
-      <br/>
-      <p>
-         I am a Full Stack Developer based in <b>Pune, Maharashtra</b>. I specialize in building scalable web applications and delivering robust, maintainable code.
-      </p>
-      <p>
-      Currently working as a <b>Junior Software Developer at Supergenesys Healthtech Pvt Ltd</b>.
-      </p>
-        <img src="https://img.shields.io/badge/Education-B.E.%20Information%20Technology-blue?style=flat-square&logo=c" alt="Education">
-        <br/>
-        <a href="https://linkedin.com/in/kartik-kesbhat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-        <a href="mailto:kkesbhat1601@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Achievements
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kartikkesbhat-2003&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="kartikkesbhat-2003" />
+  <h2>👋 Hi there!</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F83F7&center=true&vCenter=true&width=435&lines=Building+scalable,+high-performance+web+apps.;Specializing+in+the+MERN+stack.;Passionate+about+clean+architecture.;Delivering+robust,+maintainable+code." alt="Typing SVG" />
   </a>
+  <br/>
+  <p>
+     I am a Full Stack Developer based in <b>Pune, Maharashtra</b>. I specialize in building scalable web applications and delivering robust, maintainable code. Currently working as a <b>Junior Software Developer at Supergenesys Healthtech Pvt Ltd</b>.
+  </p>
+  
+  <img src="https://img.shields.io/badge/Education-B.E.%20Information%20Technology-blue?style=flat-square&logo=c" alt="Education">
+  <br/>
+  <a href="https://linkedin.com/in/kartik-kesbhat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:kkesbhat1601@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
@@ -53,16 +34,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikkesbhat-2003&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkesbhat-2003&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkesbhat-2003&theme=radical&hide_border=true" alt="streak stats" style="margin-top: 10px; margin-bottom: 10px;"/>
-  
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikkesbhat-2003&show_icons=true&theme=radical&hide_border=true" alt="Kartik's Stats" />
+</div>
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=radical" alt="Kartik's Activity Graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkesbhat-2003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkesbhat-2003&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=radical" alt="Contribution Graph" />
 </div>
 
 ---
