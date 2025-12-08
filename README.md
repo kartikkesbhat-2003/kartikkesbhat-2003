@@ -20,6 +20,8 @@
 </div>
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=github-dark)
+---
 
 ## 🛠️ Technical Arsenal
 
