@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Kartik%20Kesbhat&fontSize=70&animation=fadeIn&fontAlign=50&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist&descAlign=50"/>
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Kartik%20Kesbhat&fontSize=70&animation=fadeIn&fontAlign=35&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist&descAlign=80"/>
 </div>
 
 <div align="center">
   <h2>👋 Hi there!</h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F83F7&center=true&vCenter=true&width=435&lines=Building+scalable,+high-performance+web+apps.;Specializing+in+the+MERN+stack.;Passionate+about+clean+architecture.;Delivering+robust,+maintainable+code." alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F83F7&center=true&vCenter=true&width=500&lines=Building+scalable,+high-performance+web+apps.;Specializing+in+the+MERN+stack.;Passionate+about+clean+architecture.;Delivering+robust,+maintainable+code." alt="Typing SVG" />
+</a>
   <br/>
   <p>
      I am a Full Stack Developer based in <b>Pune, Maharashtra</b>. I specialize in building scalable web applications and delivering robust, maintainable code. Currently working as a <b>Junior Software Developer at Supergenesys Healthtech Pvt Ltd</b>.
@@ -34,19 +34,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikkesbhat-2003&show_icons=true&theme=radical&hide_border=true" alt="Kartik's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikkesbhat-2003&theme=radical" alt="Profile Details" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkesbhat-2003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikkesbhat-2003&theme=radical" alt="Top Languages" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkesbhat-2003&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kartikkesbhat-2003&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=radical" alt="Contribution Graph" />
