@@ -34,10 +34,10 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-    <div width="60%" align="left">
+    <div width="55%" align="left">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikkesbhat-2003&theme=radical" alt="Profile Details" width="100%" />
     </div>
-    <td width="40%" align="right">
+    <td width="35%" align="right">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikkesbhat-2003&theme=radical" alt="Top Languages" width="100%" />
     </td>
 </div>
