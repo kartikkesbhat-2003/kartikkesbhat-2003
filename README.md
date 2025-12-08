@@ -34,15 +34,35 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-    <div width="55%" align="left">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikkesbhat-2003&theme=radical" alt="Profile Details" width="100%" />
-    </div>
-    <td width="35%" align="right">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikkesbhat-2003&theme=radical" alt="Top Languages" width="100%" />
-    </td>
+  <table>
+    <tr>
+      <td width="60%" align="center">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikkesbhat-2003&theme=radical" 
+          alt="Profile Details" 
+          width="100%" 
+        />
+      </td>
+      <td width="40%" align="center">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikkesbhat-2003&theme=radical" 
+          alt="Top Languages" 
+          width="100%" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=github-dark)
+<!-- GitHub Contribution Graph -->
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=github-dark" 
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</div>
+
 
 ---
 
