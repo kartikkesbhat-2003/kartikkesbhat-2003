@@ -20,8 +20,6 @@
 </div>
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=github-dark)
----
 
 ## 🛠️ Technical Arsenal
 
@@ -35,22 +33,16 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
+<div align="center">
+    <div width="60%" align="left">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikkesbhat-2003&theme=radical" alt="Profile Details" width="100%" />
-    </td>
-    <td width="50%" align="center">
+    </div>
+    <td width="40%" align="right">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikkesbhat-2003&theme=radical" alt="Top Languages" width="100%" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=radical" alt="Contribution Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+</div>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkesbhat-2003&theme=github-dark)
 
 ---
 
