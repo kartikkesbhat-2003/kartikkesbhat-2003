@@ -36,14 +36,14 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%" align="center">
+      <td width="63%" align="center">
         <img 
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikkesbhat-2003&theme=radical" 
           alt="Profile Details" 
           width="100%" 
         />
       </td>
-      <td width="40%" align="center">
+      <td width="37%" align="center">
         <img 
           src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikkesbhat-2003&theme=radical" 
           alt="Top Languages" 
